@@ -5,7 +5,7 @@
 * pyttsx3
 * PyPDF2
 
-# Downloading Your Project 
+# Download This Project 
 ```git clone https://github.com/nazmul629/PDF-Reader-.git```
 
 ## Warning
